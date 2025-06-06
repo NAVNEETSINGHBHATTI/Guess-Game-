@@ -7,7 +7,7 @@ A simple and interactive number guessing game built with HTML, CSS, and JavaScri
 ## 🚀 Live Demo
 
 
-🔗 [Click Here to Visit ](https://navneetsinghbhatti.github.io/Guess-Game-/)
+🔗 [Click Here to Visit ](https://navneetsinghbhatti.github.io/Guess-Game/)
 
 
 ---
